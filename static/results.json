@@ -1,0 +1,66 @@
+[
+  {
+    "success": true,
+    "invoice_id": "Meal Invoice 1.pdf",
+    "employee": "Sahil",
+    "status": "Partially Reimbursed",
+    "reason": "Only the cost of the two Biriyanis (\u20b9400) is reimbursable, as alcoholic beverages (Royal Stag Whisky) are not reimbursable according to the policy, and the food allowance is \u20b9200 per meal.",
+    "date": "2025-06-12"
+  },
+  {
+    "success": true,
+    "invoice_id": "Meal Invoice 4.pdf",
+    "employee": "Sahil",
+    "status": "Fully Reimbursed",
+    "reason": "The total expense (\u20b988) is within the \u20b9200 meal allowance, and the items (Idli, Vada, and Tea) are eligible food and beverage items for reimbursement.",
+    "date": "2025-06-12"
+  },
+  {
+    "success": true,
+    "invoice_id": "Meal Invoice 2.pdf",
+    "employee": "Sahil",
+    "status": "Partially Reimbursed",
+    "reason": "Only \u20b9200 per meal is reimbursable, and since the employee had 2 meals, a total of \u20b9400 is reimbursable. The Chicken 65 is not reimbursable, as the policy only covers meals.",
+    "date": "2025-06-12"
+  },
+  {
+    "success": true,
+    "invoice_id": "Meal Invoice 3.pdf",
+    "employee": "Sahil",
+    "status": "Partially Reimbursed",
+    "reason": "The total expense for the meal is \u20b9340, but the policy allows a maximum of \u20b9200 per meal, and since there are two meals, the maximum reimbursement is \u20b9400. However, the chapati is also considered food, so the total food expense is \u20b9340. Therefore, the reimbursement is capped at \u20b9200 per meal, totaling \u20b9400, but the actual expense is \u20b9340, so only \u20b9340 is eligible for reimbursement.",
+    "date": "2025-06-12"
+  },
+  {
+    "success": true,
+    "invoice_id": "Meal Invoice 6.pdf",
+    "employee": "Sahil",
+    "status": "Partially Reimbursed",
+    "reason": "Only the Biriyani is reimbursable, but it is capped at \u20b9200 per meal; therefore, only \u20b9400 can be reimbursed. The wines are not reimbursable as alcoholic beverages are restricted.",
+    "date": "2025-06-12"
+  },
+  {
+    "success": true,
+    "invoice_id": "Meal Invoice 5.pdf",
+    "employee": "Sahil",
+    "status": "Declined",
+    "reason": "The expense is for coffee, which is not reimbursable under the \"Food and Beverages\" section unless it was incurred while traveling for work or attending business meetings, and the invoice does not provide sufficient information to determine this.",
+    "date": "2025-06-12"
+  },
+  {
+    "success": true,
+    "invoice_id": "Meal Invoice 8.pdf",
+    "employee": "Sahil",
+    "status": "Partially Reimbursed",
+    "reason": "The meal is reimbursable up to \u20b9200, but the alcoholic beverage is not reimbursable, resulting in a partial reimbursement of \u20b9200.",
+    "date": "2025-06-12"
+  },
+  {
+    "success": true,
+    "invoice_id": "Meal Invoice 7.pdf",
+    "employee": "Sahil",
+    "status": "Fully Reimbursed",
+    "reason": "The expense is for food (Dosa and Idali) while traveling for work or attending business meetings, and the total amount (\u20b990) is within the \u20b9200 per meal limit.",
+    "date": "2025-06-12"
+  }
+]

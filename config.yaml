@@ -1,0 +1,19 @@
+llm:
+  primary_model: "gemini-2.0-flash"
+  fallback_model: "llama3-70b-8192"
+  provider: "google"
+
+embedding:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+
+vector_db:
+  type: "chroma"
+  persist_directory: "./chroma_db"
+  collection_name: "invoice_vectors"
+
+logging:
+  file_path: "logs/app.log"
+  log_level: "INFO"
+
+batch_processing:
+  max_workers: 4

@@ -1,0 +1,36 @@
+# FastAPI API framework
+fastapi
+uvicorn
+
+# Streamlit UI
+streamlit
+
+# PDF parsing
+pymupdf
+pdfplumber
+
+# ZIP fallback (optional)
+patool
+pyunpack
+
+# LangChain & LLMs
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+langchain-groq
+groq
+openai
+
+# Embeddings & Vector DB
+sentence-transformers
+chromadb
+
+# Configuration
+PyYAML
+python-dotenv
+
+# Utility
+tqdm
+requests
+python-multipart

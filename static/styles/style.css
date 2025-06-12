@@ -1,0 +1,26 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1, h2, h3 {
+    color: #3c4a6b;
+}
+
+div.stMarkdown {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.success {
+    color: green;
+    font-weight: bold;
+}
+
+.failure {
+    color: red;
+    font-weight: bold;
+}
